@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Thomas Guerry"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Physical Oceanography & Climatology"
+  location         : "LOPS, Brest, France"
+  employer         : "Univeristé de Bretagne Occidentale"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "thomas.guerry@univ-brest.fr" 
 
   # Academic websites
   academia         : # URL
